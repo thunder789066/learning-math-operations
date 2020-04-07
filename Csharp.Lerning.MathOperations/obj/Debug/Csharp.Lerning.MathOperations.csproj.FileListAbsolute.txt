@@ -1,0 +1,6 @@
+c:\users\christina\documents\visual studio 2015\Projects\Csharp.Lerning.MathOperations\Csharp.Lerning.MathOperations\bin\Debug\Csharp.Lerning.MathOperations.exe.config
+C:\Users\Christina\documents\visual studio 2015\Projects\Csharp.Lerning.MathOperations\Csharp.Lerning.MathOperations\bin\Debug\Csharp.Lerning.MathOperations.exe
+C:\Users\Christina\documents\visual studio 2015\Projects\Csharp.Lerning.MathOperations\Csharp.Lerning.MathOperations\bin\Debug\Csharp.Lerning.MathOperations.pdb
+C:\Users\Christina\documents\visual studio 2015\Projects\Csharp.Lerning.MathOperations\Csharp.Lerning.MathOperations\obj\Debug\Csharp.Lerning.MathOperations.csprojResolveAssemblyReference.cache
+C:\Users\Christina\documents\visual studio 2015\Projects\Csharp.Lerning.MathOperations\Csharp.Lerning.MathOperations\obj\Debug\Csharp.Lerning.MathOperations.exe
+C:\Users\Christina\documents\visual studio 2015\Projects\Csharp.Lerning.MathOperations\Csharp.Lerning.MathOperations\obj\Debug\Csharp.Lerning.MathOperations.pdb
